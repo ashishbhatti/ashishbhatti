@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbhatti" /> </p>
 
-- 🔭 I’m currently working on **Designing Aerial Vehicles for Other Planets.**
+- 🔭 I’m currently looking for opportunities to work in **Software Development, Data Science and Artificial Intelligence.**
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Advanced Flutter Development** in order to integrate ML and app development.
 
 - 💬 Ask me about **Flutter, Python, ML & Robotics**
 
