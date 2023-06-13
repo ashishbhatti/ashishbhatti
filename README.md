@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishbhatti&show_icons=true&locale=en&layout=compact" alt="ashishbhatti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishbhatti&show_icons=true&locale=en" alt="ashishbhatti" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbhatti&" alt="ashishbhatti" /></p>
