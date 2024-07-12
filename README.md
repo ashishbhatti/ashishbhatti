@@ -11,11 +11,11 @@
 
 - 🔭 Actively looking forwards towards contributing my skills in **Software Development, Data Science and Artificial Intelligence.**
 
-- 🌱 I’m currently learning **Advanced Flutter Development** in order to integrate AI and app development.
+- 🌱 I’m currently learning **Generate Artificial Intelligence** in order to integrate AI and app development.
 
-- 💬 Ask me about **Flutter, Python, ML & Robotics**
+- 💬 Ask me about **AI/ML, Robotics and Aerospace Engineering**
 
-- 📫 How to reach me **ashikumy16@gmail.com**
+- 📫 How to reach me **ashk.iitk@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1man-H3iy5P3y9y_dQRKDZ1hhljOs2p8S/view?usp=sharing](https://drive.google.com/file/d/1man-H3iy5P3y9y_dQRKDZ1hhljOs2p8S/view?usp=sharing) -->
 
